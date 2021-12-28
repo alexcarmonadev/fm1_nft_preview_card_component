@@ -1,13 +1,13 @@
 # Frontend Mentor - NFT preview card component solution
 
-:point_right: This is the [NFT preview card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) challenge on Frontend Mentor.
+:point_right: This is the [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-p99EoGba1) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://day1-profile-card-component.vercel.app/)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-H6tihhvD7N) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm1_nft_preview_card_component/)
 
 Give a ⭐️ if you like this project!
 
